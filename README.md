@@ -8,7 +8,7 @@ We’re going to be making a smaller version of ENS on the Polygon blockchain: w
 
 ## step 1
  
-1) Go to Deployment link : https://bit.ly/3Vv1XVr
+1) Go to Deployment link : https://bit.ly/3Vv1XVr 
  
 2) Then click connect wallet
 
